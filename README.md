@@ -1,2 +1,2 @@
-# self-managed vegetable garden
+# Vegetable garden
 This project was developed in order to build a self-manageable vegetable garden, making the plant manage to stay moist enough to live.
